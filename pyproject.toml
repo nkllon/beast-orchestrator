@@ -20,7 +20,7 @@ classifiers = [
 ]
 dependencies = [
   "beast-mailbox-core>=0.3.0",
-  "beast-node>=0.1.0",
+  # beast-node>=0.1.0 - Not yet published, will add when available
 ]
 
 [project.optional-dependencies]
